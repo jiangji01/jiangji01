@@ -1,50 +1,54 @@
 <div align="center">
 
-# 江集 · Jipeng Song
+# Hi, I'm Jipeng Song 👋
+
+[**English**](README.md) · [中文](README.zh-CN.md)
 
 ### Consumer Product Leader × AI Native Builder
 
-用产品判断发现真实问题，用 AI 把想法做成可以运行的产品。
+I turn real-world friction into product judgment — and product judgment into working software with AI.
 
-[个人博客](https://nclcat.com) · [From Here](https://github.com/jiangji01/from-here) · [Chat EchoMind](https://github.com/jiangji01/chat-echomind)
+[Blog](https://nclcat.com) · [From Here](https://github.com/jiangji01/from-here) · [Chat EchoMind](https://github.com/jiangji01/chat-echomind)
 
 </div>
 
 ---
 
-## 关于我
+## About me
 
-我有十多年互联网产品经验，长期从事 C 端交易、导购与服务产品。
+I have spent more than a decade building consumer products across commerce, discovery, and local services.
 
-现在，我正在探索 AI 如何改变产品创造的边界：从真实使用摩擦出发，独立完成问题定义、产品判断、交互设计、Spec、AI Coding、评测与迭代。
+Today, I explore how AI changes the boundary of product creation. I work from a real user problem through product thesis, interaction design, specs, AI-assisted coding, evaluation, and iteration.
 
-我不是传统工程师。对我而言，代码也不只是技术，而是一种新的产品表达方式——让判断、审美和想法最终成为真实的 Artifact。
+I am not a traditional engineer. To me, code is more than a technical medium:
+
+> It is a new form of product expression — a way to turn judgment, taste, and ideas into real artifacts.
 
 ---
 
-## 作品
+## What I'm building
 
 ### 🌿 [NCL Cat](https://nclcat.com)
 
-**一个产品人和 AI 的协作产物。**
+**A living collaboration between a product builder and AI.**
 
 <p align="center">
   <a href="https://nclcat.com">
-    <img src="https://nclcat.com/_astro/nclcat-hero-garden-world.Bn0A06OO_18aSRu.webp" alt="NCL Cat 植物园世界" width="86%">
+    <img src="https://nclcat.com/_astro/nclcat-hero-garden-world.Bn0A06OO_18aSRu.webp" alt="NCL Cat garden world" width="86%">
   </a>
 </p>
 
-判断、项目、实验，人和 AI 一起留下的东西。也记录做产品时看到的问题、踩过的坑，和后来想明白的事。
+NCL Cat is my personal website and an evolving AI product lab: a place for product judgment, projects, experiments, mistakes, and ideas that became clearer over time.
 
-它不只是文章的集合，也是一座持续生长的个人观察园：文章、Prototype、Agent Skill、评测方法和真实产品实践，都在这里找到自己的位置。
+It is not just a collection of articles. Writing, prototypes, agent skills, evaluation methods, and real product work all grow here together.
 
-[进入 NCL Cat](https://nclcat.com) · [从序言开始](https://nclcat.com/preface/)
+[Visit NCL Cat](https://nclcat.com) · [Start with the preface](https://nclcat.com/preface/)
 
 ---
 
 ### 🎧 [From Here](https://github.com/jiangji01/from-here)
 
-**从正在听的歌出发，决定想走多远。**
+**Start with what you're hearing. Decide how far to go.**
 
 <p align="center">
   <a href="https://github.com/jiangji01/from-here">
@@ -52,61 +56,61 @@
   </a>
 </p>
 
-大多数推荐系统记住的是长期偏好，From Here 关注的是此刻的状态。
+Most recommendation systems remember long-term taste. From Here follows the state you are in right now.
 
-它以当前歌曲为临时原点，让用户控制探索距离，并从网易云音乐的真实曲库中构建一条连续的聆听路径。AI 不负责凭空发明歌曲，而是理解当下、判断候选歌曲是否值得成为下一首。
+It treats the currently playing song as a temporary origin, lets you control how far to explore, and builds a continuous listening path from real NetEase Cloud Music candidates. AI does not invent songs; it understands the moment and judges whether a real candidate deserves to be next.
 
 `macOS · NetEase Cloud Music · Chrome Side Panel · Open Source`
 
-[查看项目](https://github.com/jiangji01/from-here) · [下载最新版本](https://github.com/jiangji01/from-here/releases/latest)
+[View project](https://github.com/jiangji01/from-here) · [Download latest release](https://github.com/jiangji01/from-here/releases/latest)
 
 ---
 
 ### 🧠 [Chat EchoMind](https://github.com/jiangji01/chat-echomind)
 
-**让散落的 AI 对话，成为可以长期积累的个人知识资产。**
+**Turn scattered AI conversations into a personal knowledge asset that compounds over time.**
 
 <p align="center">
   <a href="https://github.com/jiangji01/chat-echomind">
-    <img src="https://raw.githubusercontent.com/jiangji01/chat-echomind/main/docs/guides/screenshots/screenshot-03-echo.png" alt="Chat EchoMind Echo 收藏箱" width="86%">
+    <img src="https://raw.githubusercontent.com/jiangji01/chat-echomind/main/docs/guides/screenshots/screenshot-03-echo.png" alt="Chat EchoMind Echo collection" width="86%">
   </a>
 </p>
 
-Chat EchoMind 是一款 Chrome 扩展，用来汇聚 ChatGPT 与 Gemini 中分散的对话、收藏真正有价值的片段，并为跨对话复盘和知识沉淀建立基础。
+Chat EchoMind is a Chrome extension that brings conversations from ChatGPT and Gemini into one place, lets you save the parts that matter, and creates a foundation for cross-conversation reflection and knowledge building.
 
-它不是另一个聊天工具，而是试图解决聊天发生之后的问题：
+It is not another chat interface. It starts with the problem that comes after the conversation:
 
-> 当对话结束，那些真正改变过我们思考的内容去了哪里？
+> When a conversation ends, where do the ideas that changed our thinking go?
 
 `Chrome Extension · React · TypeScript · Local-first`
 
-[查看项目](https://github.com/jiangji01/chat-echomind)
+[View project](https://github.com/jiangji01/chat-echomind)
 
 ---
 
-## 我持续关注
+## Questions I keep exploring
 
-- AI 如何进入人的真实工作与生活，而不是制造新的信息负担
-- Agent 如何理解意图、上下文、记忆与长期目标
-- AI Coding 如何改变产品经理与个体创造者的能力边界
-- 非标服务中的交易、信任与履约体验
-- 推荐系统如何理解人的临时状态，而不只是固化长期偏好
+- How can AI enter real work and life without creating more information overload?
+- How should agents understand intent, context, memory, and long-term goals?
+- How does AI coding change the creative boundary of product managers and individuals?
+- How can platforms build trust, transactions, and reliable delivery for complex services?
+- Can recommendation systems respond to temporary human state instead of hardening every signal into permanent taste?
 
 ---
 
-## 我的工作方式
+## How I work
 
 ```text
-真实摩擦 → 产品判断 → Spec / Prototype → AI Coding → 真实使用 → 持续反馈
+Real friction → Product judgment → Spec / Prototype → AI coding → Real use → Feedback
 ```
 
-我关心的不只是“AI 能不能完成”，还包括它是否理解了人的真实意图，是否进入了正确的使用链路，是否减少负担，以及最终形成的东西是否真的是我想要的。
+I care about more than whether AI can complete a task. I care whether it understood the real intent, entered the right workflow, reduced rather than added burden, and produced something that genuinely deserves to exist.
 
 ---
 
 <div align="center">
 
-生活在上海。喜欢产品、AI、音乐、摄影，以及那些暂时没有明确答案的问题。
+Based in Shanghai. Interested in products, AI, music, photography, and questions without settled answers.
 
 **Technology matters when it helps an idea become real.**
 
