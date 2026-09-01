@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jipeng Song 👋
+# Hi, I'm Jiang Ji 👋
 
 [**English**](README.md) · [中文](README.zh-CN.md)
 
