@@ -2,7 +2,7 @@
 
 # 江集 · Jipeng Song
 
-English · **中文**
+[English](README.md) · **中文**
 
 ### Consumer Product Leader × AI Native Builder
 
