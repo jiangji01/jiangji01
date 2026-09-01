@@ -24,6 +24,24 @@
 
 ## 作品
 
+### 🌿 [NCL Cat](https://nclcat.com)
+
+**一个产品人和 AI 的协作产物。**
+
+<p align="center">
+  <a href="https://nclcat.com">
+    <img src="https://nclcat.com/_astro/nclcat-hero-garden-world.Bn0A06OO_18aSRu.webp" alt="NCL Cat 植物园世界" width="86%">
+  </a>
+</p>
+
+判断、项目、实验，人和 AI 一起留下的东西。也记录做产品时看到的问题、踩过的坑，和后来想明白的事。
+
+它不只是文章的集合，也是一座持续生长的个人观察园：文章、Prototype、Agent Skill、评测方法和真实产品实践，都在这里找到自己的位置。
+
+[进入 NCL Cat](https://nclcat.com) · [从序言开始](https://nclcat.com/intro)
+
+---
+
 ### 🎧 [From Here](https://github.com/jiangji01/from-here)
 
 **从正在听的歌出发，决定想走多远。**
@@ -48,6 +66,12 @@
 
 **让散落的 AI 对话，成为可以长期积累的个人知识资产。**
 
+<p align="center">
+  <a href="https://github.com/jiangji01/chat-echomind">
+    <img src="https://raw.githubusercontent.com/jiangji01/chat-echomind/main/docs/guides/screenshots/screenshot-03-echo.png" alt="Chat EchoMind Echo 收藏箱" width="86%">
+  </a>
+</p>
+
 Chat EchoMind 是一款 Chrome 扩展，用来汇聚 ChatGPT 与 Gemini 中分散的对话、收藏真正有价值的片段，并为跨对话复盘和知识沉淀建立基础。
 
 它不是另一个聊天工具，而是试图解决聊天发生之后的问题：
@@ -57,18 +81,6 @@ Chat EchoMind 是一款 Chrome 扩展，用来汇聚 ChatGPT 与 Gemini 中分�
 `Chrome Extension · React · TypeScript · Local-first`
 
 [查看项目](https://github.com/jiangji01/chat-echomind)
-
----
-
-### 🌿 [NCL Cat](https://nclcat.com)
-
-**个人网站，也是一个持续生长的 AI 产品实验场。**
-
-这里记录我对 AI、产品、工作与个体成长的观察，也保存 Prototype、Agent Skill、评测方法和真实产品实践。
-
-我希望它不只是文章的集合，而是一套伴随实践持续生长的个人认知系统。
-
-[访问网站](https://nclcat.com)
 
 ---
 
