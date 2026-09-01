@@ -38,7 +38,7 @@
 
 它不只是文章的集合，也是一座持续生长的个人观察园：文章、Prototype、Agent Skill、评测方法和真实产品实践，都在这里找到自己的位置。
 
-[进入 NCL Cat](https://nclcat.com) · [从序言开始](https://nclcat.com/intro)
+[进入 NCL Cat](https://nclcat.com) · [从序言开始](https://nclcat.com/preface/)
 
 ---
 
